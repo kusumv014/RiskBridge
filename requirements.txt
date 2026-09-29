@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+numpy-financial
+plotly
+scikit-learn
+shap
+reportlab
+openpyxl
